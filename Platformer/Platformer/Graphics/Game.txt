@@ -1,0 +1,18 @@
+Games name - "Primary" becuase of the colours
+Buttons 1,2,3 change the players colour
+Each colour will give the player a different ability (Like trine) - Option of expansion with secondary colours for more abilities
+Colour 1 - Red
+Colour 2 - Blue
+Colour 3 - Yellow
+Red will be the aggresive colour, allows the user to punch and block
+Blue will be the agile colour which will allow the player to jump and dash
+Yellow will be the stealth colour which will allow the player to stealth and Shuriken(Maybe)
+Each player will also have a passive whcih will be:
+Red - Increased Health
+Blue - Increased Movement speed
+Yellow - Increased Evasion
+
+The controls for each player will be as followed:
+Red - Punch - Space (DONE), Block - Left CTRL
+Blue - Jump - Space (DONE), Dash - Left CTRL (DONE)
+Yellow - Shuriken - Space, Stealth - Left CTRL
